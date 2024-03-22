@@ -2,4 +2,6 @@ Patata aturdida
 ¿Se está viendo esto?
   
   
-  Parece que ya quedo
+#Parece que ya quedo
+  
+#fgdsfasgdfd
